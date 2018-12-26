@@ -1,0 +1,13 @@
+body {
+    background-image: url("baseballs.jpg");
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.jumbotron {
+    background-color: #F3F1E6;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.card {
+    margin-bottom: 10px;
+}
